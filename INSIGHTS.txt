@@ -1,0 +1,20 @@
+INSIGHTS
+
+
+Sales over Months
+
+Sales showed fluctuations throughout the period, with noticeable peaks in early 2016 and early 2017.
+The highest monthly sales were recorded around March 2016, exceeding 40K.
+Overall sales remained relatively stable with periodic spikes indicating seasonal demand.
+
+Sales by Region
+
+The West region generated the highest sales, contributing nearly 280K in revenue.
+The East region ranked second in sales performance, with approximately 250K in sales.
+The South region recorded the lowest sales among all regions, contributing around 150K.
+
+Sales by Category
+
+Technology was the top-performing category, accounting for approximately 38% of total sales.
+Furniture contributed about 33% of total sales, making it the second-largest category.
+Office Supplies represented nearly 29% of sales, the smallest share among the three categories.
